@@ -1,0 +1,52 @@
+.block {
+    display: inline-block;
+    margin-right: -5px;
+    width: 550px;
+}
+
+.a1 {
+    text-decoration: none;
+    background: #03a9f4;
+    font-family: 'Playfair Display', serif;
+}
+
+.a2 {
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    width: 15%;
+    height: 144px;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style: none;
+}
+
+p {
+    font-size: 20px;
+    color: #626262;
+    font-family: "Playfair Display";
+    font-weight: 300;
+}
+
+h2 {
+    width: 420px;
+    height: 95px;
+    font-size: 30px;
+    color: #626262;
+    font-family: "Playfair Display";
+    font-weight: 400;
+}
+
+.list-link {
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: -5px;
+    width: 600px;
+}
